@@ -1,0 +1,1749 @@
+﻿Log file open, 12/11/19 11:18:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.052852
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.11-10.18.54:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.11-10.18.54:352][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:352][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-10.18.54:355][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-10.18.54:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-10.18.54:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-10.18.54:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-10.18.54:356][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-10.18.54:356][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.11-10.18.54:357][  0]LogHAL: Display: Platform has ~ 16 GB [17087205376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.11-10.18.54:357][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.11-10.18.54:357][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:357][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.11-10.18.54:358][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.12.11-10.18.54:358][  0]LogInit: Computer: FG190124
+[2019.12.11-10.18.54:359][  0]LogInit: User: KevinCederqvist
+[2019.12.11-10.18.54:359][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.11-10.18.54:359][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.11-10.18.54:359][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.11-10.18.54:359][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.11-10.18.54:359][  0]LogMemory: Process Physical Memory: 100.53 MB used, 100.54 MB peak
+[2019.12.11-10.18.54:359][  0]LogMemory: Process Virtual Memory: 88.22 MB used, 88.22 MB peak
+[2019.12.11-10.18.54:359][  0]LogMemory: Physical Memory: 4903.08 MB used,  11392.55 MB free, 16295.63 MB total
+[2019.12.11-10.18.54:359][  0]LogMemory: Virtual Memory: 4652.18 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.11-10.18.54:360][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.11-10.18.54:373][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.11-10.18.54:373][  0]LogInit: Using OS detected locale (en-SE).
+[2019.12.11-10.18.54:374][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.11-10.18.54:492][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.11-10.18.54:516][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.11-10.18.54:516][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.11-10.18.54:622][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-10.18.54:622][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.11-10.18.54:674][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.12.11-10.18.54:674][  0]LogD3D11RHI:       5980/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.11-10.18.54:676][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.11-10.18.54:676][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.11-10.18.54:676][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.11-10.18.54:680][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.11-10.18.54:680][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.11-10.18.54:680][  0]LogWindows: EnumDisplayDevices:
+[2019.12.11-10.18.54:680][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2019.12.11-10.18.54:681][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2019.12.11-10.18.54:681][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.12.11-10.18.54:681][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.12.11-10.18.54:681][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.11-10.18.54:681][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.12.11-10.18.54:681][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.12.11-10.18.54:681][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.12.11-10.18.54:681][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.12.11-10.18.54:714][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.11-10.18.54:729][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.11-10.18.55:019][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.11-10.18.55:025][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.11-10.18.55:031][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.11-10.18.55:037][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.11-10.18.55:044][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.11-10.18.55:050][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.11-10.18.55:057][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.11-10.18.55:063][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.11-10.18.55:066][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.11-10.18.55:090][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.11-10.18.55:091][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.11-10.18.55:103][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.11-10.18.55:103][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.11-10.18.55:113][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.11-10.18.55:113][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.11-10.18.55:118][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.11-10.18.55:123][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.11-10.18.55:128][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.11-10.18.55:133][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.11-10.18.55:150][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.11-10.18.55:150][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.11-10.18.55:150][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.11-10.18.55:157][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.11-10.18.55:194][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Intermediate/Shaders/WorkingDirectory/9708/).
+[2019.12.11-10.18.55:194][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kevin.cederqvist/AppData/Local/Temp/UnrealShaderWorkingDir/ED67C675479E5955F1683693AEF1586E/'.
+[2019.12.11-10.18.55:196][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.11-10.18.55:196][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.11-10.18.55:196][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.11-10.18.55:665][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.11-10.18.55:703][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/kevin.cederqvist/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-10.18.55:703][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kevin.cederqvist/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.11-10.18.55:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.11-10.18.55:703][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.11-10.18.55:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-10.18.55:703][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.11-10.18.55:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.11-10.18.55:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-10.18.55:712][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.11-10.18.55:713][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kevin.cederqvist/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.11-10.18.55:713][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.11-10.18.55:713][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.11-10.18.55:728][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.11-10.18.55:730][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.11-10.18.55:730][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.11-10.18.55:767][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2019.12.11-10.18.55:951][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-10.18.56:059][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.11-10.18.56:059][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.11-10.18.56:059][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.11-10.18.56:059][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.11-10.18.56:059][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.11-10.18.56:067][  0]LogNetVersion: GameProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1985513754)
+[2019.12.11-10.18.56:362][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.035795 seconds
+[2019.12.11-10.18.56:367][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.11-10.18.56:367][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.11-10.18.56:367][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.11-10.18.56:959][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.11-10.18.56:961][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.11-10.18.56:998][  0]SourceControl: Source control is disabled
+[2019.12.11-10.18.56:998][  0]SourceControl: Source control is disabled
+[2019.12.11-10.18.56:999][  0]SourceControl: Source control is disabled
+[2019.12.11-10.18.57:000][  0]SourceControl: Source control is disabled
+[2019.12.11-10.18.57:057][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.11-10.18.57:156][  0]LogOcInput: OculusInput pre-init called
+[2019.12.11-10.18.57:160][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.11-10.18.57:160][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.11-10.18.57:210][  0]LogEngine: Initializing Engine...
+[2019.12.11-10.18.57:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-10.18.57:212][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.11-10.18.57:372][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.11-10.18.57:384][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.11-10.18.57:410][  0]LogInit: XAudio2 using 'LEN T24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-10.18.57:421][  0]LogInit: FAudioDevice initialized.
+[2019.12.11-10.18.57:422][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.11-10.18.57:502][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/kevin.cederqvist/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-10.18.57:506][  0]LogInit: Texture streaming: Enabled
+[2019.12.11-10.18.57:520][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.11-10.18.57:520][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.11-10.18.57:522][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.11-10.18.57:566][  0]LogInit: Transaction tracking system initialized
+[2019.12.11-10.18.57:589][  0]BlueprintLog: New page: Editor Load
+[2019.12.11-10.18.57:648][  0]LocalizationService: Localization service is disabled
+[2019.12.11-10.18.57:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/' took 0.00s
+[2019.12.11-10.18.57:815][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.11-10.18.57:815][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.11-10.18.57:940][  0]SourceControl: Source control is disabled
+[2019.12.11-10.18.57:941][  0]LightingResults: New page: Lighting Build
+[2019.12.11-10.18.57:943][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.18.57:943][  0]MapCheck: New page: Map Check
+[2019.12.11-10.18.57:943][  0]LightingResults: New page: Lighting Build
+[2019.12.11-10.18.57:964][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.11-10.18.58:380][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-10.18.58:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-10.18.58:417][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.11-10.18.58:417][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-10.18.58:417][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.12.11-10.18.58:417][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.476
+[2019.12.11-10.18.58:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.18.58:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.18.58:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.18.58:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.18.58:526][  0]LogCollectionManager: Loaded 0 collections in 0.001414 seconds
+[2019.12.11-10.18.58:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/Collections/' took 0.00s
+[2019.12.11-10.18.58:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/Developers/KevinCederqvist/Collections/' took 0.00s
+[2019.12.11-10.18.58:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/Collections/' took 0.00s
+[2019.12.11-10.18.58:531][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.11-10.18.58:536][  0]LogContentBrowser: Native class hierarchy populated in 0.0057 seconds. Added 2863 classes and 680 folders.
+[2019.12.11-10.18.58:541][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.12.11-10.18.58:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.11-10.18.58:568][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.11-10.18.58:579][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.11-10.18.58:580][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.11-10.18.58:584][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.11-10.18.58:629][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-10.18.58:734][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.11-10.18.58:734][  0]LogLoad: (Engine Initialization) Total time: 5.06 seconds
+[2019.12.11-10.18.58:734][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.11-10.18.58:771][  0]LogAssetRegistry: Asset discovery search completed in 3.0033 seconds
+[2019.12.11-10.18.58:774][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.12.11-10.18.58:774][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.12.11-10.18.58:775][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.11-10.18.58:855][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-10.18.59:760][103]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-10.19.01:078][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-10.19.01:144][269]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-10.19.01:157][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.01:157][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-10.19.01:157][269]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2019, 12:19:01 PM)
+[2019.12.11-10.19.01:158][269]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.11-10.19.01:159][269]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-10.19.01:173][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013723s)
+[2019.12.11-10.19.01:173][269]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-10.19.01:174][269]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.12.11-10.19.01:174][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015004s)
+[2019.12.11-10.19.01:193][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.11-10.19.01:208][269]LogInit: XAudio2 using 'LEN T24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-10.19.01:216][269]LogInit: FAudioDevice initialized.
+[2019.12.11-10.19.01:223][269]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-10.19.01:226][269]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.11-11.19.01
+[2019.12.11-10.19.01:226][269]LogWorld: Bringing up level for play took: 0.002497
+[2019.12.11-10.19.01:226][269]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.11-10.19.01:231][269]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.12.11-10.19.01:232][269]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.148
+[2019.12.11-10.19.01:232][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.01:233][269]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:272][270]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:279][271]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:287][272]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:295][273]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:303][274]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:312][275]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:320][276]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:328][277]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:337][278]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:345][279]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:354][280]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:362][281]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:370][282]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:379][283]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:387][284]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:395][285]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:404][286]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:412][287]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:420][288]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:429][289]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:437][290]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:445][291]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:454][292]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:462][293]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:470][294]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:479][295]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:487][296]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:495][297]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:504][298]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:512][299]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:521][300]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:529][301]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:536][302]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:545][303]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:553][304]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:561][305]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:570][306]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:578][307]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:586][308]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:595][309]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:603][310]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:612][311]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:620][312]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:628][313]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:637][314]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:645][315]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:653][316]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:662][317]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:670][318]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:678][319]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:687][320]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:695][321]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:703][322]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:712][323]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:720][324]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:728][325]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:737][326]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:745][327]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:754][328]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:762][329]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:770][330]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:779][331]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:787][332]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:795][333]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:804][334]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:812][335]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:821][336]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:829][337]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:837][338]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:845][339]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:854][340]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:862][341]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:870][342]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:879][343]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:888][344]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:896][345]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:904][346]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:912][347]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:920][348]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:928][349]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:936][350]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:945][351]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:953][352]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:961][353]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:970][354]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:978][355]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:986][356]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.01:995][357]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:003][358]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:011][359]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:020][360]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:028][361]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:037][362]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:045][363]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:053][364]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:062][365]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:071][366]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:078][367]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:087][368]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:095][369]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:104][370]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:112][371]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:120][372]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:130][373]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:139][374]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:147][375]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:155][376]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:164][377]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:172][378]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:180][379]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:189][380]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:197][381]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:205][382]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:214][383]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:222][384]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:230][385]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:238][386]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:247][387]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:255][388]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:263][389]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:272][390]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:280][391]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:289][392]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:297][393]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:305][394]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:313][395]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:322][396]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:330][397]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:338][398]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:346][399]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:355][400]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:363][401]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:372][402]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:380][403]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:389][404]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:396][405]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:405][406]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:413][407]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:422][408]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:430][409]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:438][410]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:447][411]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:455][412]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:463][413]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:472][414]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:480][415]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:489][416]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:497][417]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:505][418]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:514][419]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:522][420]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:530][421]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:539][422]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:547][423]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:555][424]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:563][425]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:571][426]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:580][427]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:588][428]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:596][429]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:605][430]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:613][431]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:622][432]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:630][433]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:638][434]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:646][435]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:655][436]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:663][437]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:672][438]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:680][439]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:688][440]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:697][441]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:705][442]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:713][443]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:722][444]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:730][445]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:738][446]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:746][447]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:755][448]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:763][449]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:771][450]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:780][451]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:788][452]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:796][453]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:805][454]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:813][455]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:821][456]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:830][457]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:838][458]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:846][459]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:855][460]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:863][461]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:872][462]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:880][463]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:888][464]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:897][465]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:905][466]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:913][467]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:922][468]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:930][469]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:939][470]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.02:947][471]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.03:022][480]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.03:023][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.03:023][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.19.03:023][480]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-10.19.03:023][480]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.19.03:033][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-10.19.03:033][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.03:057][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.19.03:060][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.11-10.19.03:130][488]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.11-10.19.05:044][715]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameProject/AI/BTService_FindPlayer.BTService_FindPlayer
+[2019.12.11-10.19.05:205][715]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.11-10.19.05:769][715]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.11-10.19.11:535][406]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.19.12:698][531]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameProject/AI/BTTask_FindRandomLocation.BTTask_FindRandomLocation
+[2019.12.11-10.19.12:934][532]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-10.19.14:382][706]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.19.15:252][805]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameProject/AI/BP_EnemyWalkerAIController.BP_EnemyWalkerAIController
+[2019.12.11-10.19.18:309][122]LogSlate: Window 'BP_EnemyWalkerAIController' being destroyed
+[2019.12.11-10.19.22:688][639]LogSavePackage: Moving '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/BP_EnemyWalkerAIController90288226477CB32332AFCF95BDFE482B.tmp' to '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/GameProject/AI/BP_EnemyWalkerAIController.uasset'
+[2019.12.11-10.19.24:473][848]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-10.19.24:488][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.24:488][848]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-10.19.24:489][848]LogPlayLevel: [PlayLevel] Compiling BP_EnemyWalkerAIController before play...
+[2019.12.11-10.19.24:638][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.11-10.19.24:638][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 149 ms (1 blueprints)
+[2019.12.11-10.19.24:638][848]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2019, 12:19:24 PM)
+[2019.12.11-10.19.24:640][848]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-10.19.24:650][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011256s)
+[2019.12.11-10.19.24:651][848]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-10.19.24:652][848]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2019.12.11-10.19.24:652][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012550s)
+[2019.12.11-10.19.24:677][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.11-10.19.24:693][848]LogInit: XAudio2 using 'LEN T24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-10.19.24:700][848]LogInit: FAudioDevice initialized.
+[2019.12.11-10.19.24:709][848]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-10.19.24:711][848]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.11-11.19.24
+[2019.12.11-10.19.24:712][848]LogWorld: Bringing up level for play took: 0.002278
+[2019.12.11-10.19.24:712][848]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.11-10.19.24:714][848]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.667
+[2019.12.11-10.19.24:714][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.24:714][848]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:742][849]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:750][850]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:759][851]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:767][852]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:775][853]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:783][854]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:792][855]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:800][856]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:808][857]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:817][858]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:825][859]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:833][860]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:842][861]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:850][862]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:858][863]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:866][864]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:875][865]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:883][866]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:891][867]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:900][868]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:908][869]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:916][870]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:925][871]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:933][872]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:941][873]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:950][874]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:958][875]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:967][876]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:975][877]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:983][878]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.24:992][879]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:000][880]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:008][881]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:016][882]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:024][883]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:033][884]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:041][885]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:049][886]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:058][887]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:067][888]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:075][889]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:083][890]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:092][891]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:100][892]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:108][893]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:117][894]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:124][895]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:132][896]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:142][897]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:150][898]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:158][899]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:167][900]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:175][901]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:183][902]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:192][903]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:200][904]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:208][905]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:216][906]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:225][907]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:233][908]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:241][909]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:250][910]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:258][911]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:267][912]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:275][913]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:283][914]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:292][915]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:300][916]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:308][917]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:316][918]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:324][919]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:333][920]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:341][921]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:350][922]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:358][923]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:366][924]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:375][925]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:383][926]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:391][927]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:400][928]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:408][929]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:416][930]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:425][931]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:433][932]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:442][933]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:450][934]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:459][935]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:467][936]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:475][937]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:484][938]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:492][939]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:500][940]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:508][941]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:516][942]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:524][943]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:533][944]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:541][945]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:550][946]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:558][947]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:566][948]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:575][949]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:583][950]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:591][951]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:600][952]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:608][953]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:616][954]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:625][955]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:633][956]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:643][957]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:653][958]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:660][959]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:669][960]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:677][961]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:685][962]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:693][963]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:702][964]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:710][965]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:718][966]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:727][967]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:735][968]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:743][969]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:752][970]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:760][971]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:769][972]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:777][973]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:785][974]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:794][975]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:802][976]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:811][977]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:819][978]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:826][979]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:834][980]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:843][981]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:851][982]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:860][983]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:868][984]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:876][985]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:885][986]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:893][987]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:901][988]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:910][989]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:918][990]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:926][991]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:935][992]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:943][993]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:951][994]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:961][995]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:968][996]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:976][997]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:985][998]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.25:993][999]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:002][  0]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:010][  1]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:018][  2]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:027][  3]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:035][  4]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:043][  5]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:052][  6]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:060][  7]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:069][  8]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:077][  9]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:085][ 10]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:094][ 11]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:102][ 12]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:110][ 13]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:119][ 14]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:127][ 15]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:135][ 16]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:144][ 17]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.19.26:145][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.26:145][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.19.26:145][ 17]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-10.19.26:145][ 17]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.19.26:154][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-10.19.26:154][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.19.26:183][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.19.26:186][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.11-10.19.26:251][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.11-10.19.26:802][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-10.19.32:845][811]LogSavePackage: Moving '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/BP_EnemyWalkerAIController973C43CE49E027B5AEC17DA6498687B2.tmp' to '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/GameProject/AI/BP_EnemyWalkerAIController.uasset'
+[2019.12.11-10.20.09:884][244]Cmd: TRANSACTION UNDO
+[2019.12.11-10.20.09:884][244]LogEditorTransaction: Undo Add Component
+[2019.12.11-10.20.10:041][262]Cmd: TRANSACTION UNDO
+[2019.12.11-10.20.10:041][262]LogEditorTransaction: Undo Remove Components
+[2019.12.11-10.20.10:179][278]Cmd: TRANSACTION UNDO
+[2019.12.11-10.20.10:180][278]LogEditorTransaction: Undo Remove Variable
+[2019.12.11-10.20.10:358][299]Cmd: TRANSACTION UNDO
+[2019.12.11-10.20.10:358][299]LogEditorTransaction: Undo Remove Variable
+[2019.12.11-10.20.11:256][406]Cmd: TRANSACTION REDO
+[2019.12.11-10.20.11:256][406]LogEditorTransaction: Redo Remove Variable
+[2019.12.11-10.20.11:517][437]Cmd: TRANSACTION REDO
+[2019.12.11-10.20.11:517][437]LogEditorTransaction: Redo Remove Variable
+[2019.12.11-10.20.59:494][190]LogSavePackage: Moving '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/BP_EnemyWalkerAIController63EA6C924A94C54A1265E2896B93862D.tmp' to '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/GameProject/AI/BP_EnemyWalkerAIController.uasset'
+[2019.12.11-10.21.00:393][297]BlueprintLog: New page: Compile BP_EnemyWalkerAIController
+[2019.12.11-10.21.00:539][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.11-10.21.01:797][442]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-10.21.01:813][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.21.01:813][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-10.21.01:813][442]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2019, 12:21:01 PM)
+[2019.12.11-10.21.01:813][442]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-10.21.01:824][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011049s)
+[2019.12.11-10.21.01:825][442]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-10.21.01:825][442]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.12.11-10.21.01:825][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012058s)
+[2019.12.11-10.21.01:849][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.11-10.21.01:865][442]LogInit: XAudio2 using 'LEN T24i-10 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.11-10.21.01:872][442]LogInit: FAudioDevice initialized.
+[2019.12.11-10.21.01:883][442]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-10.21.01:885][442]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.11-11.21.01
+[2019.12.11-10.21.01:885][442]LogWorld: Bringing up level for play took: 0.002292
+[2019.12.11-10.21.01:885][442]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.11-10.21.01:887][442]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.508
+[2019.12.11-10.21.01:887][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.21.01:887][442]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:918][443]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:925][444]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:933][445]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:941][446]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:949][447]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:958][448]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:967][449]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:975][450]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:983][451]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.01:992][452]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:000][453]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:008][454]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:017][455]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:025][456]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:033][457]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:042][458]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:050][459]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:058][460]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:067][461]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:075][462]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:083][463]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:092][464]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:100][465]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:108][466]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:117][467]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:125][468]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:133][469]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:141][470]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:150][471]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:158][472]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:166][473]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:175][474]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:183][475]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:192][476]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:200][477]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:208][478]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:217][479]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:225][480]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:233][481]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:242][482]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:250][483]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:258][484]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:267][485]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:275][486]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:282][487]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:291][488]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:299][489]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:308][490]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:316][491]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:324][492]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:333][493]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:341][494]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:349][495]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:358][496]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:366][497]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:374][498]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:383][499]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:391][500]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:399][501]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:408][502]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:416][503]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:424][504]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:433][505]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:441][506]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:449][507]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:458][508]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:466][509]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:474][510]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:483][511]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:491][512]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:499][513]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:508][514]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:516][515]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:524][516]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:533][517]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:541][518]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:550][519]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:558][520]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:568][521]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:575][522]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:583][523]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:591][524]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:600][525]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:608][526]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:616][527]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:625][528]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:633][529]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:641][530]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:650][531]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:658][532]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:667][533]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:675][534]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:684][535]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:692][536]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:700][537]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:709][538]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:716][539]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:725][540]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:733][541]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:741][542]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:749][543]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:758][544]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:766][545]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:775][546]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:783][547]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:791][548]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:800][549]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:808][550]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:816][551]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:825][552]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:833][553]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:841][554]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:850][555]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:858][556]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:866][557]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:875][558]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:884][559]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:891][560]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:900][561]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:908][562]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:916][563]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:924][564]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:933][565]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:941][566]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:949][567]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:958][568]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:966][569]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:975][570]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:983][571]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:991][572]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.02:999][573]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:008][574]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:016][575]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:024][576]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:032][577]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:043][578]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:050][579]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:058][580]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:067][581]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:075][582]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:083][583]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:091][584]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:100][585]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:108][586]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:116][587]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:125][588]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:133][589]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:141][590]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:150][591]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:158][592]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:167][593]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:175][594]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:183][595]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:193][596]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:200][597]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:208][598]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:217][599]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:225][600]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:233][601]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:241][602]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:250][603]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:258][604]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:267][605]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:275][606]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:283][607]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:291][608]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:300][609]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:308][610]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:316][611]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:325][612]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:334][613]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:342][614]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:350][615]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:358][616]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:367][617]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:375][618]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:383][619]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:392][620]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:400][621]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:408][622]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:417][623]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:425][624]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:433][625]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:441][626]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:450][627]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:458][628]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:466][629]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:475][630]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:483][631]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:492][632]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:500][633]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:508][634]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:516][635]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:525][636]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:533][637]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:541][638]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:550][639]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:558][640]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:567][641]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:575][642]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:583][643]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:591][644]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:600][645]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:608][646]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:617][647]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:625][648]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:633][649]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:642][650]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:650][651]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:658][652]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:667][653]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:675][654]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:683][655]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:691][656]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:700][657]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:708][658]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:716][659]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:725][660]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:733][661]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:741][662]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:751][663]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:758][664]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:767][665]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:775][666]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:783][667]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:791][668]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:800][669]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:808][670]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:817][671]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:825][672]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:833][673]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:841][674]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:850][675]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:858][676]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:866][677]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:875][678]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:884][679]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:891][680]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:900][681]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:908][682]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:916][683]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:925][684]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:933][685]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:941][686]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:950][687]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:958][688]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:967][689]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:975][690]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:983][691]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.03:991][692]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:000][693]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:008][694]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:017][695]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:025][696]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:033][697]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:041][698]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:050][699]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:058][700]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:066][701]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:075][702]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:083][703]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:092][704]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:100][705]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:108][706]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:116][707]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:125][708]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:133][709]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:141][710]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:151][711]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:158][712]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:167][713]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:175][714]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:183][715]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:191][716]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:200][717]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:208][718]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:216][719]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:225][720]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:233][721]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:241][722]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:250][723]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:258][724]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:267][725]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:276][726]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:283][727]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:292][728]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:300][729]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:308][730]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:317][731]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:325][732]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:334][733]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:342][734]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:350][735]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:358][736]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:366][737]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:374][738]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:383][739]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:391][740]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:399][741]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:409][742]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:416][743]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:425][744]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:433][745]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:441][746]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:450][747]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:458][748]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:466][749]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:475][750]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:483][751]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:491][752]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:500][753]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:508][754]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:516][755]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:525][756]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:533][757]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:542][758]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:551][759]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:558][760]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:567][761]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:575][762]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:583][763]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:592][764]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:600][765]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:608][766]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:617][767]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:625][768]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:633][769]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:642][770]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:650][771]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:658][772]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:667][773]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:675][774]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:683][775]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:691][776]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:699][777]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:708][778]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:716][779]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:724][780]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:733][781]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:741][782]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:749][783]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:758][784]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:766][785]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:775][786]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:783][787]LogBlueprintUserMessages: [BP_GameState_C_0] 0
+[2019.12.11-10.21.04:785][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.21.04:785][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.21.04:785][787]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-10.21.04:785][787]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.21.04:796][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-10.21.04:796][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-10.21.04:825][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-10.21.04:827][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.11-10.21.04:891][793]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.11-10.21.05:941][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-10.21.27:332][485]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/GameProject/AI/BB_EnemyWalker.BB_EnemyWalker
+[2019.12.11-10.21.35:209][405]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameProject/AI/BP_EnemyWalker.BP_EnemyWalker
+[2019.12.11-10.21.38:633][782]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.21.38:675][782]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameProject/AI/BP_EnemyWalker.BP_EnemyWalker
+[2019.12.11-10.22.10:906][547]BlueprintLog: New page: Compile BP_EnemyWalkerAIController
+[2019.12.11-10.22.11:049][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.11-10.22.25:696][259]LogSavePackage: Moving '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/BP_EnemyWalkerAIController33D3A43E47CCA5165DF4C2A0CF0811D2.tmp' to '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/GameProject/AI/BP_EnemyWalkerAIController.uasset'
+[2019.12.11-10.22.29:336][691]LogSavePackage: Moving '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/BP_EnemyWalkerAIController4E0512A047913E7E912A72B9CF5E20C2.tmp' to '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/GameProject/AI/BP_EnemyWalkerAIController.uasset'
+[2019.12.11-10.22.38:373][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.11-10.22.39:064][701]LogSlate: Window 'Save Content' being destroyed
+[2019.12.11-10.22.39:092][701]LogSavePackage: Moving '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Saved/BP_EnemyWalkerAIController04E15F27484B81A9126A7E9983AA57AF.tmp' to '../../../../../../Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/GameProject/AI/BP_EnemyWalkerAIController.uasset'
+[2019.12.11-10.22.39:170][701]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.22.39:196][701]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.11-10.22.39:196][701]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.22.39:223][701]LogSlate: Window 'GameProject - Unreal Editor' being destroyed
+[2019.12.11-10.22.39:223][701]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.11-10.22.39:325][702]Cmd: QUIT_EDITOR
+[2019.12.11-10.22.40:214][702]LogExit: Preparing to exit.
+[2019.12.11-10.22.41:090][702]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.22.41:092][702]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.22.41:094][702]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.22.41:098][702]LogDirectoryWatcher: A directory notification failed for 'C:/Users/kevin.cederqvist/Documents/Unreal Projects/GameProject - Copy (2)/Content/', and we were unable to create a new request.
+[2019.12.11-10.22.41:119][702]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.11-10.22.41:124][702]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-10.22.41:125][702]LogExit: Editor shut down
+[2019.12.11-10.22.41:125][702]LogExit: Transaction tracking system shut down
+[2019.12.11-10.22.41:297][702]LogExit: Object subsystem successfully closed.
+[2019.12.11-10.22.41:319][702]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.11-10.22.41:336][702]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.12.11-10.22.41:336][702]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.12.11-10.22.41:336][702]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.12.11-10.22.41:336][702]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.11-10.22.41:336][702]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.11-10.22.41:336][702]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.11-10.22.41:337][702]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.11-10.22.41:338][702]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.11-10.22.41:791][702]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.11-10.22.41:791][702]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.11-10.22.41:791][702]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.11-10.22.41:791][702]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.11-10.22.41:791][702]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.11-10.22.41:792][702]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.11-10.22.41:793][702]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.11-10.22.41:836][702]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.11-10.22.41:839][702]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.11-10.22.41:840][702]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.11-10.22.41:843][702]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.11-10.22.41:862][702]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.11-10.22.41:863][702]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.11-10.22.41:964][702]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.11-10.22.42:065][702]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.11-10.22.42:065][702]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.11-10.22.42:066][702]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.11-10.22.42:068][702]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.11-10.22.42:069][702]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.11-10.22.42:081][702]LogDerivedDataCache: Shutdown
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.11-10.22.42:081][702]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.11-10.22.42:082][702]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.11-10.22.42:083][702]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.11-10.22.42:083][702]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.11-10.22.42:087][702]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.11-10.22.42:087][702]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.11-10.22.42:088][702]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.11-10.22.42:088][702]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.11-10.22.42:103][702]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.11-10.22.42:103][702]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.11-10.22.42:103][702]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C51EE90-4AD2-130C-E6BC-FB8ACC4CFF49%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=2ed8022243ab6d3ef4aa7c8cb8820015%7C7a801ccfa014455391e91aa0f0dd6172%7Cfc8bbb3a-948e-4a17-af64-4c4ecabf5325&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.11-10.22.42:122][702]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.11-10.22.42:123][702]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.11-10.22.42:124][702]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.11-10.22.42:124][702]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.11-10.22.42:124][702]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.11-10.22.42:125][702]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.11-10.22.42:126][702]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.11-10.22.42:126][702]LogD3D11RHI: Shutdown
+[2019.12.11-10.22.42:126][702]LogD3D11RHI: CleanupD3DDevice
+[2019.12.11-10.22.42:127][702]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.11-10.22.42:127][702]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.11-10.22.42:127][702]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.11-10.22.42:189][702]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.11-10.22.42:195][702]LogExit: Exiting.
+[2019.12.11-10.22.42:202][702]Log file closed, 12/11/19 11:22:42
